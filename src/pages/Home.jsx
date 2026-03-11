@@ -16,9 +16,19 @@ const Home = () => {
     <div className="bg-white">
       {/* Hero Section */}
       <section className="relative h-[80vh] md:h-screen w-full overflow-hidden">
-        <video autoPlay loop muted playsInline className="absolute w-full h-full object-cover">
+        <video
+          autoPlay
+          loop
+          muted
+          playsInline
+          poster="/home.jpg" /* Add this! */
+          className="absolute w-full h-full object-cover"
+        >
           <source src="/video.mp4" type="video/mp4" />
+          Your browser does not support the video tag.
         </video>
+
+        
         <div className="absolute inset-0 bg-black/40"></div>
         <div className="relative z-10 flex h-full items-center justify-center text-center px-4">
           <div>
