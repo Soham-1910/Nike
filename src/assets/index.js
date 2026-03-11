@@ -14,10 +14,10 @@ import green2 from './Jordan1/TurboGreen/2.webp';
 import green3 from './Jordan1/TurboGreen/3.webp';
 import green4 from './Jordan1/TurboGreen/4.webp';
 
-import unc1 from './Jordan1/UNC/1.webp';
-import unc2 from './Jordan1/UNC/2.webp';
-import unc3 from './Jordan1/UNC/3.webp';
-import unc4 from './Jordan1/UNC/4.webp';
+import unc1 from './Jordan1/Unc/1.webp';
+import unc2 from './Jordan1/Unc/2.webp';
+import unc3 from './Jordan1/Unc/3.webp';
+import unc4 from './Jordan1/Unc/4.webp';
 
 // Lebron 15
 

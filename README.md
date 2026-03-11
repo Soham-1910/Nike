@@ -1,10 +1,10 @@
-# UNIWUE — Premium Sneaker Experience
+# NIKE — Premium Sneaker Experience
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**UNIWUE** is a high-end, Nike-inspired e-commerce platform designed for speed, stability, and style. Built with a focus on modern UI/UX principles, the application features seamless layout transitions, dynamic product filtering, and a mobile-first responsive design.
+**NIKE** is a high-end, Nike-inspired e-commerce platform designed for speed, stability, and style. Built with a focus on modern UI/UX principles, the application features seamless layout transitions, dynamic product filtering, and a mobile-first responsive design.
 
 ## 👟 Key Features
 
@@ -26,4 +26,4 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/uniwue-store.git](https://github.com/your-username/uniwue-store.git)
+   git clone [https://github.com/Soham-1910/Nike.git] (https://github.com/Soham-1910/Nike.git)
