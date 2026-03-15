@@ -21,14 +21,13 @@ const Home = () => {
           loop
           muted
           playsInline
-          poster="/home.jpg" /* Add this! */
+          preload="metadata"
+          poster="/home.jpg"
           className="absolute w-full h-full object-cover"
         >
           <source src="/video.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
         </video>
 
-        
         <div className="absolute inset-0 bg-black/40"></div>
         <div className="relative z-10 flex h-full items-center justify-center text-center px-4">
           <div>
