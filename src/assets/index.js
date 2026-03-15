@@ -3,11 +3,16 @@ import chicago1 from './Jordan1/Chicago/1.webp';
 import chicago2 from './Jordan1/Chicago/2.webp';
 import chicago3 from './Jordan1/Chicago/3.webp';
 import chicago4 from './Jordan1/Chicago/4.webp';
+import chicago5 from './Jordan1/Chicago/5.webp';
 
 import dior1 from './Jordan1/Dior/1.webp';
 import dior2 from './Jordan1/Dior/2.webp';
-import dior3 from './Jordan1/Dior/3.jpeg';
-import dior4 from './Jordan1/Dior/4.jpeg';
+import dior3 from './Jordan1/Dior/3.webp';
+import dior4 from './Jordan1/Dior/4.webp';
+import dior5 from './Jordan1/Dior/5.webp';
+import dior6 from './Jordan1/Dior/6.webp';
+
+
 
 import green1 from './Jordan1/TurboGreen/1.webp';
 import green2 from './Jordan1/TurboGreen/2.webp';
@@ -18,6 +23,7 @@ import unc1 from './Jordan1/Unc/1.webp';
 import unc2 from './Jordan1/Unc/2.webp';
 import unc3 from './Jordan1/Unc/3.webp';
 import unc4 from './Jordan1/Unc/4.webp';
+import unc5 from './Jordan1/Unc/5.webp';
 
 // Lebron 15
 
@@ -26,20 +32,22 @@ import ashes2 from './Lebron15/Ashes/2.png';
 import ashes3 from './Lebron15/Ashes/3.png';
 import ashes4 from './Lebron15/Ashes/4.png';
 
-import gum1 from './Lebron15/BlackGum/1.png';
-import gum2 from './Lebron15/BlackGum/2.png';
-import gum3 from './Lebron15/BlackGum/3.png';
-import gum4 from './Lebron15/BlackGum/4.png';
+import gum1 from './Lebron15/BlackGum/1.jpg';
+import gum2 from './Lebron15/BlackGum/2.jpg';
+import gum3 from './Lebron15/BlackGum/3.jpg';
+import gum4 from './Lebron15/BlackGum/4.jpg';
 
-import fruity1 from './Lebron15/FruityPebbles/1.png';
-import fruity2 from './Lebron15/FruityPebbles/2.png';
-import fruity3 from './Lebron15/FruityPebbles/3.png';
-import fruity4 from './Lebron15/FruityPebbles/4.png';
+import fruity1 from './Lebron15/FruityPebbles/1.jpg';
+import fruity2 from './Lebron15/FruityPebbles/2.jpg';
+import fruity3 from './Lebron15/FruityPebbles/3.jpg';
+import fruity4 from './Lebron15/FruityPebbles/4.jpg';
 
-import pink1 from './Lebron15/RustPink/1.png';
-import pink2 from './Lebron15/RustPink/2.png';
-import pink3 from './Lebron15/RustPink/3.png';
-import pink4 from './Lebron15/RustPink/4.png';
+import pink1 from './Lebron15/RustPink/1.avif';
+import pink2 from './Lebron15/RustPink/2.avif';
+import pink3 from './Lebron15/RustPink/3.avif';
+import pink4 from './Lebron15/RustPink/4.avif';
+import pink5 from './Lebron15/RustPink/5.avif';
+import pink6 from './Lebron15/RustPink/6.avif';
 
 // lebron soldier 11
 
@@ -48,27 +56,31 @@ import midnight2 from './LebronSoldier11/MidnightNavy/2.avif';
 import midnight3 from './LebronSoldier11/MidnightNavy/3.avif';
 import midnight4 from './LebronSoldier11/MidnightNavy/4.avif';
 
-import camo1 from './LebronSoldier11/OliveCamo/2.jpeg';
-import camo2 from './LebronSoldier11/OliveCamo/3.jpeg';
-import camo3 from './LebronSoldier11/OliveCamo/4.jpeg';
-import camo4 from './LebronSoldier11/OliveCamo/5.webp';
+import silver1 from './LebronSoldier11/SilverBullet/1.png';
+import silver2 from './LebronSoldier11/SilverBullet/2.png';
+import silver3 from './LebronSoldier11/SilverBullet/3.png';
+import silver4 from './LebronSoldier11/SilverBullet/4.png';
 
 import triple1 from './LebronSoldier11/TripleWhite/1.avif';
 import triple2 from './LebronSoldier11/TripleWhite/2.avif';
 import triple3 from './LebronSoldier11/TripleWhite/3.avif';
 import triple4 from './LebronSoldier11/TripleWhite/4.avif';
+import triple5 from './LebronSoldier11/TripleWhite/5.avif';
 
-import wheat1 from './LebronSoldier11/Wheat/1.png';
-import wheat2 from './LebronSoldier11/Wheat/2.png';
-import wheat3 from './LebronSoldier11/Wheat/3.png';
-import wheat4 from './LebronSoldier11/Wheat/4.png';
+import wheat1 from './LebronSoldier11/Wheat/1.webp';
+import wheat2 from './LebronSoldier11/Wheat/2.webp';
+import wheat3 from './LebronSoldier11/Wheat/3.webp';
+import wheat4 from './LebronSoldier11/Wheat/4.webp';
+import wheat5 from './LebronSoldier11/Wheat/5.webp';
+import wheat6 from './LebronSoldier11/Wheat/6.webp';
+import wheat7 from './LebronSoldier11/Wheat/7.webp';
 
 // supreme
 
 import airwhite1 from './Supreme/Airforce1lowwhite/1.webp';
 import airwhite2 from './Supreme/Airforce1lowwhite/2.webp';
-import airwhite3 from './Supreme/Airforce1lowwhite/3.png';
-import airwhite4 from './Supreme/Airforce1lowwhite/4.png';
+import airwhite3 from './Supreme/Airforce1lowwhite/3.webp';
+import airwhite4 from './Supreme/Airforce1lowwhite/4.webp';
 
 import airblack1 from './Supreme/Airforce1lowblack/1.webp';
 import airblack2 from './Supreme/Airforce1lowblack/2.webp';
@@ -100,7 +112,7 @@ export const products = [
         name: "Jordan 1 Retro High Chicago",
         description: "The iconic red, white, and black colorway that started it all.",
         price: 1500,
-        image: [chicago1, chicago2, chicago3, chicago4],
+        image: [chicago1, chicago2, chicago3, chicago4, chicago5],
         category: "Jordan",
         subCategory: "Jordan 1",
         date: 1716634345448,
@@ -111,7 +123,7 @@ export const products = [
         name: "Jordan 1 Retro High Dior",
         description: "A luxury take on the Jordan 1, featuring premium Italian leather and the Dior Oblique swoosh.",
         price: 8000,
-        image: [dior1, dior2, dior3, dior4],
+        image: [dior1, dior2, dior3, dior4, dior5, dior6],
         category: "Jordan",
         subCategory: "Jordan 1",
         date: 1716634345449,
@@ -133,7 +145,7 @@ export const products = [
         name: "Jordan 1 Retro High UNC",
         description: "University Blue accents paying homage to Michael Jordan's alma mater.",
         price: 750,
-        image: [unc1, unc2, unc3, unc4],
+        image: [unc1, unc2, unc3, unc4, unc5],
         category: "Jordan",
         subCategory: "Jordan 1",
         date: 1716634345451,
@@ -179,7 +191,7 @@ export const products = [
         name: "LeBron 15 Rust Pink",
         description: "A lifestyle-friendly pastel pink colorway for the court.",
         price: 210,
-        image: [pink1, pink2, pink3, pink4],
+        image: [pink1, pink2, pink3, pink4, pink5, pink6],
         category: "Lebron",
         subCategory: "Lebron 15",
         date: 1716634345455,
@@ -199,11 +211,11 @@ export const products = [
         bestseller: false
     },
     {
-        _id: "lbs11-camo",
-        name: "LeBron Soldier 11 Olive Camo",
-        description: "Military-inspired camouflage pattern with olive green accents.",
+        _id: "lbs11-silver",
+        name: "LeBron Soldier 11 Silver Bullet",
+        description: "A metallic silver upper with reflective detailing for a futuristic look.",
         price: 170,
-        image: [camo1, camo2, camo3, camo4],
+        image: [silver1, silver2, silver3, silver4],
         category: "Lebron",
         subCategory: "Lebron Soldier 11",
         date: 1716634345457,
@@ -214,7 +226,7 @@ export const products = [
         name: "LeBron Soldier 11 Triple White",
         description: "Clean, all-white silhouette perfect for summer ball.",
         price: 150,
-        image: [triple1, triple2, triple3, triple4],
+        image: [triple1, triple2, triple3, triple4, triple5],
         category: "Lebron",
         subCategory: "Lebron Soldier 11",
         date: 1716634345458,
@@ -225,7 +237,7 @@ export const products = [
         name: "LeBron Soldier 11 Wheat",
         description: "Constructed with premium suede in a classic timberland-style colorway.",
         price: 180,
-        image: [wheat1, wheat2, wheat3, wheat4],
+        image: [wheat1, wheat2, wheat3, wheat4, wheat5, wheat6, wheat7],
         category: "Lebron",
         subCategory: "Lebron Soldier 11",
         date: 1716634345459,
